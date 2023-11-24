@@ -1,0 +1,6 @@
+[book]
+authors = ["Yaay Nands"]
+language = "en"
+multilingual = false
+src = "src"
+title = "What are the odds?"
